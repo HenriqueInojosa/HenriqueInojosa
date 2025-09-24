@@ -1,19 +1,21 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/World_of_Warcraft_logo.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Legend_of_Zelda_logo.svg" height="50" />
   <br>
   Henrique Inojosa
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Developer-forestgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zelda%20Theme-goldenrod?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hylian%20Explorer-00aaff?style=for-the-badge" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor de software com foco em aplicações web e mobile, apaixonado por interfaces intuitivas, experiências digitais e boas práticas de código.  
-Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e colaborar em equipes multidisciplinares.
+Sou desenvolvedor de software apaixonado por desafios e por criar soluções que fazem diferença.  
+Gosto de explorar novas tecnologias, construir interfaces intuitivas e trabalhar em equipe.  
 
 ---
 
@@ -31,7 +33,14 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 
 ---
 
-<img src="https://media.tenor.com/nFvTStP4N2YAAAAC/link-%C3%B1e%C3%B1e%C3%B1.gif" height="180" alt="Koda falando" />
+## Mensagem especial 🧝‍♂️
+
+<p align="center">
+  <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="180" alt="Link Zelda GIF" />
+  <br>
+  <i>IHUU</i>
+</p>
+
 ---
 
 ## Contato
@@ -42,5 +51,6 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WoW-Visual%20Theme-yellow?style=for-the-badge](https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" />
+  <img src="https://img.shields.io/badge/Zelda%20Inspired-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keep%20Exploring-%F0%9F%8F%9B%EF%B8%8F%20?style=for-the-badge" />
 </p>
