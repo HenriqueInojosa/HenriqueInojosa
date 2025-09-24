@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Horde%20Inspired-red?style=for-the-badge" />
 </p>
 
 ---
@@ -43,7 +42,7 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 ## Koda dando o recado
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" height="180" alt="Koda Brother Bear gif" />
+  <img src="https://tenor.com/pt-BR/view/link-ñeñeñ-gif-16251376492752115598" height="180" alt="Koda Brother Bear gif" />
   <br>
   <i>Koda: "Seja curioso, aprenda sempre!"</i>
 </p>
