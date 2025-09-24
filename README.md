@@ -40,6 +40,16 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 
 ---
 
+## Koda dando o recado
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" height="180" alt="Koda Brother Bear gif" />
+  <br>
+  <i>Koda: "Seja curioso, aprenda sempre!"</i>
+</p>
+
+---
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/henriqueinojosa/)  
