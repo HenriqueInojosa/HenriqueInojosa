@@ -1,12 +1,13 @@
 
 <div align="center">
-  <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="50" />
-  <br>
   <h1>
-  Henrique Inojosa
-  </h1>
-  <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/Divisor.jpg?raw=true" />
-</fiv>
+<img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="50" />
+Henrique Inojosa
+<img src="https://media.tenor.com/iZzE4VKPbmYAAAAi/moves-grooves.gif" height="60" />
+      </h1>
+  <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/Divisor.jpg?raw=true"/>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-267F00?style=for-the-badge&logoColor=gold&logo=github" />
