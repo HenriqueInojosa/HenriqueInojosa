@@ -1,4 +1,4 @@
-
+<img src="gifs/top.png">
 <div align="center">
   <h1>
 <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="50" />
@@ -52,4 +52,4 @@ I love tackling tricky problems, exploring new tech, and learning along the way.
   <img src="https://img.shields.io/badge/Keep%20Exploring-FFD700?style=for-the-badge&logo=linktree" />
   <img src="https://img.shields.io/badge/🌱%20See%20Ya-1DB954?style=for-the-badge" />
 </p>
-
+<img src="gifs/bot.png">
