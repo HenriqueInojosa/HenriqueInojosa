@@ -42,7 +42,7 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 ## Koda dando o recado
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/link-ñeñeñ-gif-16251376492752115598" height="180" alt="Koda Brother Bear gif" />
+ <img src="https://media.tenor.com/nFvTStP4N2YAAAAC/link-ñeñeñ.gif" height="180" alt="Koda falando" />
   <br>
   <i>Koda: "Seja curioso, aprenda sempre!"</i>
 </p>
