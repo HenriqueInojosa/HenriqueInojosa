@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="50" />
   <br>
+  <h1>
   Henrique Inojosa
+  </h1>
   <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/Divisor.jpg?raw=true" />
 </fiv>
 
