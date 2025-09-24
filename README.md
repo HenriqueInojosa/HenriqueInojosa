@@ -31,16 +31,7 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 
 ---
 
-<div class="tenor-gif-embed" data-postid="16251376492752115598" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/link-%C3%B1e%C3%B1e%C3%B1-gif-16251376492752115598">Link ñeñeñ Sticker</a>from <a href="https://tenor.com/search/link+%C3%B1e%C3%B1e%C3%B1-stickers">Link ñeñeñ Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-## Koda dando o recado
-
-<p align="center">
- <img src="https://tenor.com/pt-BR/view/link-ñeñeñ-gif-16251376492752115598" height="180" alt="Koda falando" />
-  <br>
-  <i>Koda: "Seja curioso, aprenda sempre!"</i>
-</p>
-
+<img src="https://media.tenor.com/nFvTStP4N2YAAAAC/link-%C3%B1e%C3%B1e%C3%B1.gif" height="180" alt="Koda falando" />
 ---
 
 ## Contato
@@ -51,5 +42,5 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WoW-Visual%20Theme-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WoW-Visual%20Theme-yellow?style=for-the-badge](https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" />
 </p>
