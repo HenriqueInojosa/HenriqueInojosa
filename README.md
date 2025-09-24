@@ -1,11 +1,10 @@
-<img src="gifs/top.png">
+<img src="gifs/top.png" />
 <div align="center">
   <h1>
 <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="50" />
 Henrique Inojosa
 <img src="https://media.tenor.com/iZzE4VKPbmYAAAAi/moves-grooves.gif" height="60" />
       </h1>
-  <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/Divisor.jpg?raw=true"/>
 
 </div>
 
@@ -43,8 +42,6 @@ I love tackling tricky problems, exploring new tech, and learning along the way.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-  <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/Divisor.jpg?raw=true" />
 <div align='center'>
   <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/output-onlinegiftools-com.gif?raw=true" height="180" alt="Link Zelda GIF" />
 </div>
@@ -52,4 +49,4 @@ I love tackling tricky problems, exploring new tech, and learning along the way.
   <img src="https://img.shields.io/badge/Keep%20Exploring-FFD700?style=for-the-badge&logo=linktree" />
   <img src="https://img.shields.io/badge/🌱%20See%20Ya-1DB954?style=for-the-badge" />
 </p>
-<img src="gifs/bot.png">
+<img src="gifs/bot.png" />
