@@ -55,5 +55,5 @@ Assim como Link, sempre em busca de novas aventuras e conhecimentos!
   <img src="https://img.shields.io/badge/May%20the%20Triforce%20guide%20you-FFD700?style=for-the-badge&logo=zelda" />
 </p>
 <div align='center'>
-  <img src="https://media1.tenor.com/m/FFX1kqPTe2UAAAAC/korok-bye.gif" height="180" alt="Link Zelda GIF" />
+  <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/output-onlinegiftools-com.gif?raw=true" height="180" alt="Link Zelda GIF" />
 </div>
