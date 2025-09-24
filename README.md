@@ -1,4 +1,4 @@
-<h1 align="center">
+**<h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Legend_of_Zelda_logo.svg" height="50" />
   <br>
   Henrique Inojosa
@@ -54,3 +54,4 @@ Gosto de explorar novas tecnologias, construir interfaces intuitivas e trabalhar
   <img src="https://img.shields.io/badge/Zelda%20Inspired-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Keep%20Exploring-%F0%9F%8F%9B%EF%B8%8F%20?style=for-the-badge" />
 </p>
+**
