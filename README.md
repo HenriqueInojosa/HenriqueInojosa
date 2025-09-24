@@ -5,20 +5,20 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-267F00?style=for-the-badge&logoColor=gold&logo=github" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-267F00?style=for-the-badge&logoColor=gold&logo=github" />
 </p>
 
 ---
+<h1 align="center">About Me</h1>
 
-## Sobre mim
+<p align="center">
+  Hi! I'm Henrique 👋 
+I turn ideas into software that actually works (sometimes).
+I love tackling tricky problems, exploring new tech, and learning along the way. Coding for me is as much about creativity and fun as it is about building solutions.
+</div>
+</p>
 
-Sou desenvolvedor de software apaixonado por desafios e por criar soluções que fazem diferença.  
-Gosto de explorar novas tecnologias, construir interfaces intuitivas e trabalhar em equipe.  
-Assim como Link, sempre em busca de novas aventuras e conhecimentos!
-
----
-
-## Tecnologias que uso
+<h1 align="center">My favorite techs</h1>
 
 <div align="center">
 
@@ -32,27 +32,26 @@ Assim como Link, sempre em busca de novas aventuras e conhecimentos!
 
 ---
 
-##🧝‍♂️
-
-<p align="center">
-  <img src="" height="180" alt="Link Zelda GIF" />
-  <br>
-  <i>IHUU</i>
-</p>
+<img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/Divisor.jpg?raw=true" />
 
 ---
 
-## Contato
+<h1 align="center">Contact</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueinojosa/)
-[![E-mail](https://img.shields.io/badge/E--mail-FFD700?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueinojosa@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/henriqueinojosa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:henriqueinojos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zelda%20Inspired-267F00?style=for-the-badge&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/Keep%20Exploring-FFD700?style=for-the-badge&logo=linktree" />
-  <img src="https://img.shields.io/badge/May%20the%20Triforce%20guide%20you-FFD700?style=for-the-badge&logo=zelda" />
+  <img src="https://img.shields.io/badge/🌱%20See%20Ya-1DB954?style=for-the-badge" />
 </p>
 <div align='center'>
   <img src="https://github.com/HenriqueInojosa/HenriqueInojosa/blob/main/gifs/output-onlinegiftools-com.gif?raw=true" height="180" alt="Link Zelda GIF" />
