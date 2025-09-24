@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-267F00?style=for-the-badge&logoColor=gold&logo=github" />
-  <img src="https://img.shields.io/badge/Triforce%20Dev-FFD700?style=for-the-badge&logoColor=black&logo=data" />
-  <img src="https://img.shields.io/badge/Hylian%20Explorer-1E90FF?style=for-the-badge&logoColor=white&logo=linktree" />
 </p>
 
 ---
