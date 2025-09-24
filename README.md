@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Legend_of_Zelda_logo.svg" height="50" />
+  <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="50" />
   <br>
   Henrique Inojosa
 </h1>
@@ -34,12 +34,12 @@ Assim como Link, sempre em busca de novas aventuras e conhecimentos!
 
 ---
 
-## Mensagem especial 🧝‍♂️
+##🧝‍♂️
 
 <p align="center">
-  <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="180" alt="Link Zelda GIF" />
+  <img src="" height="180" alt="Link Zelda GIF" />
   <br>
-  <i>Que a Triforce te dê coragem nas suas aventuras digitais!</i>
+  <i>IHUU</i>
 </p>
 
 ---
@@ -56,3 +56,6 @@ Assim como Link, sempre em busca de novas aventuras e conhecimentos!
   <img src="https://img.shields.io/badge/Keep%20Exploring-FFD700?style=for-the-badge&logo=linktree" />
   <img src="https://img.shields.io/badge/May%20the%20Triforce%20guide%20you-FFD700?style=for-the-badge&logo=zelda" />
 </p>
+<div align='center'>
+  <img src="https://media1.tenor.com/m/FFX1kqPTe2UAAAAC/korok-bye.gif" height="180" alt="Link Zelda GIF" />
+</div>
