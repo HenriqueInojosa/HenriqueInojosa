@@ -1,13 +1,13 @@
-**<h1 align="center">
+<h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Legend_of_Zelda_logo.svg" height="50" />
   <br>
   Henrique Inojosa
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-forestgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zelda%20Theme-goldenrod?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hylian%20Explorer-00aaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Developer-267F00?style=for-the-badge&logoColor=gold&logo=github" />
+  <img src="https://img.shields.io/badge/Triforce%20Dev-FFD700?style=for-the-badge&logoColor=black&logo=data" />
+  <img src="https://img.shields.io/badge/Hylian%20Explorer-1E90FF?style=for-the-badge&logoColor=white&logo=linktree" />
 </p>
 
 ---
@@ -16,6 +16,7 @@
 
 Sou desenvolvedor de software apaixonado por desafios e por criar soluções que fazem diferença.  
 Gosto de explorar novas tecnologias, construir interfaces intuitivas e trabalhar em equipe.  
+Assim como Link, sempre em busca de novas aventuras e conhecimentos!
 
 ---
 
@@ -23,11 +24,11 @@ Gosto de explorar novas tecnologias, construir interfaces intuitivas e trabalhar
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-267F00?logo=nextdotjs&logoColor=FFD700&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-267F00?logo=nodedotjs&logoColor=FFD700&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Expo-1E90FF?logo=expo&logoColor=FFD700&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Figma-7C4700?logo=figma&logoColor=FFD700&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-B9C9CC?logo=mysql&logoColor=267F00&style=for-the-badge" />
 
 </div>
 
@@ -38,20 +39,20 @@ Gosto de explorar novas tecnologias, construir interfaces intuitivas e trabalhar
 <p align="center">
   <img src="https://media.tenor.com/4Yh80RGfl44AAAAi/link-%C3%B1e%C3%B1e%C3%B1.gif" height="180" alt="Link Zelda GIF" />
   <br>
-  <i>IHUU</i>
+  <i>Que a Triforce te dê coragem nas suas aventuras digitais!</i>
 </p>
 
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/henriqueinojosa/)  
-[E-mail](mailto:henriqueinojosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueinojosa/)
+[![E-mail](https://img.shields.io/badge/E--mail-FFD700?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueinojosa@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zelda%20Inspired-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keep%20Exploring-%F0%9F%8F%9B%EF%B8%8F%20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zelda%20Inspired-267F00?style=for-the-badge&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Keep%20Exploring-FFD700?style=for-the-badge&logo=linktree" />
+  <img src="https://img.shields.io/badge/May%20the%20Triforce%20guide%20you-FFD700?style=for-the-badge&logo=zelda" />
 </p>
-**
