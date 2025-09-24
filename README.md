@@ -31,13 +31,7 @@ Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e col
 
 ---
 
-## Projetos em destaque
-
-- [Isaude](https://github.com/HenriqueInojosa/Isaude) — Plataforma de saúde digital
-- [Front_NadaConst](https://github.com/Junior-81/Front_NadaConst) — Sistema de gestão
-- [Front-PCD](https://github.com/gsist/front-pcd) — Dashboard inclusivo
-
----
+<div class="tenor-gif-embed" data-postid="16251376492752115598" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/link-%C3%B1e%C3%B1e%C3%B1-gif-16251376492752115598">Link ñeñeñ Sticker</a>from <a href="https://tenor.com/search/link+%C3%B1e%C3%B1e%C3%B1-stickers">Link ñeñeñ Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Koda dando o recado
 
