@@ -1,68 +1,52 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/World_of_Warcraft_logo.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/World_of_Warcraft_logo.svg" height="40" />
   <br>
-  HenriqueInojosa - ⚔️ Software Hero of Azeroth ⚔️
+  Henrique Inojosa
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Faction-Horde-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Main%20Spec-Front%20End-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Horde%20Inspired-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 🗺️ Minha Jornada em Azeroth
+## Sobre mim
 
-Sou Henrique, explorador dos códigos e criador de interfaces mágicas!
-
-> “Por Azeroth, escrevo linhas de código que unem mundos e conectam heróis.”
-
----
-
-## 🧙‍♂️ Minhas Skills & Tecnologias
-
-| 💫 Skill         | 🛡️ Nível         | 🧰 Ferramentas         |
-|------------------|------------------|-----------------------|
-| Next.js          | 🟦🟦🟦🟦🟦          | `Next.js`, `React`    |
-| Node.js          | 🟩🟩🟩🟩🟩          | `Node.js`, `Express`  |
-| Expo             | 🟪🟪🟪🟪🟪          | `Expo`, `React Native`|
-| Figma            | 🟨🟨🟨🟨🟨          | `Figma`               |
-| MySQL            | 🟧🟧🟧🟧⬜          | `MySQL`               |
+Sou desenvolvedor de software com foco em aplicações web e mobile, apaixonado por interfaces intuitivas, experiências digitais e boas práticas de código.  
+Atuo do protótipo ao deploy, sempre buscando evoluir em novas tecnologias e colaborar em equipes multidisciplinares.
 
 ---
 
-## 🏆 Conquistas Recentes
+## Tecnologias que uso
 
-- 🏹 **Isaude**: Plataforma de saúde digital — <a href="https://github.com/HenriqueInojosa/Isaude">Ver projeto</a>
-- 🛡️ **Front_NadaConst**: Sistema de gestão — <a href="https://github.com/Junior-81/Front_NadaConst">Ver projeto</a>
-- 💼 **Front-PCD**: Dashboard inclusivo — <a href="https://github.com/gsist/front-pcd">Ver projeto</a>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 
-## 🔎 Aventure-se pelos meus repositórios!
-
-<p align="center">
-  <a href="https://github.com/HenriqueInojosa?tab=repositories">
-    <img src="https://media.giphy.com/media/1xVfWvZP7KxkPZ1jmA/giphy.gif" height="120" alt="WoW Mage Spell">
-  </a>
-</p>
+</div>
 
 ---
 
-## 👋 Venha fazer parte do grupo!
+## Projetos em destaque
 
-- 💬 Fale comigo: [LinkedIn](https://www.linkedin.com/in/henriqueinojosa/) | [E-mail](mailto:henriqueinojosa@gmail.com)
+- [Isaude](https://github.com/HenriqueInojosa/Isaude) — Plataforma de saúde digital
+- [Front_NadaConst](https://github.com/Junior-81/Front_NadaConst) — Sistema de gestão
+- [Front-PCD](https://github.com/gsist/front-pcd) — Dashboard inclusivo
 
-<details>
-  <summary>🎲 Curiosidades de WoW</summary>
-  • Main: Mage <br>
-  • Faction: Horde <br>
-  • Achievements: Loremaster, Explorer
-</details>
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/henriqueinojosa/)  
+[E-mail](mailto:henriqueinojosa@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WoW-For%20the%20Horde!-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WoW-Visual%20Theme-yellow?style=for-the-badge" />
 </p>
